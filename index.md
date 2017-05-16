@@ -1,2 +1,2 @@
-[Lisa](lisa/index)
-[Cartesius](cartesius/index)
+* [Lisa](lisa)
+* [Cartesius](cartesius)

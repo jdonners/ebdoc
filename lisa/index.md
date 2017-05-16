@@ -2,6 +2,9 @@
 
 Software that supports hardware acceleration for the GPU nodes is indicated with the GPU logo. If you are interested to use GPU nodes for your simulations, don't hesitate to contact the helpdesk.
 
+
+Check the [new software](news) page for an overview of the latest installations.
+
 ## /hpc/eb/easybuild-3.1.0/modules/all
 
 
